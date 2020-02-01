@@ -478,3 +478,15 @@
   for_hire: true
   hiring: false
   portfolio: true
+  - name: App Design
+  type: agency
+  description: >-
+    Hello, I’m Oliver — a app designer and developer based in Madrid,
+    Spain. I’ve been working both as a website designer and app developer
+    for over 10 years now. I particularly enjoy working with companies and freelancers.
+  location: "Madrid, Spain"
+  website: "https://appdesign.dev/"
+  github: "https://github.com/appdesigndev"
+  image: images/somo.jpg
+  for_hire: true
+  portfolio: true
