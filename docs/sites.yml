@@ -9668,3 +9668,17 @@
   built_by: Bold Oak Design
   built_by_url: https://boldoak.design/
   featured: false
+    
+- title: Marketplace Developers
+  url: https://developer7.dev/
+  main_url: https://developer7.dev/
+  description: >
+    Developer 7 is a app and web developers directory for freelancers and agencies
+  categories:
+    - Web Development
+    - Freelance
+    - Agency
+    - Portfolio
+  built_by: App Design Agency
+  built_by_url: https://appdesign.dev/
+  featured: true
